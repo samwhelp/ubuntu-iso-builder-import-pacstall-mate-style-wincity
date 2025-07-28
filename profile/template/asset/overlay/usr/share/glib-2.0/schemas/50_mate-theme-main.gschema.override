@@ -6,7 +6,7 @@ theme='Win11-Dark'
 
 [org.mate.interface]
 gtk-theme='Win11-Dark'
-icon-theme='Citrus-red-dark'
+icon-theme='Win11-dark'
 #icon-theme='Numix-Circle'
 
 
