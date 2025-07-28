@@ -1,11 +1,11 @@
 
 
 [org.mate.Marco.general]
-theme='Vimix-dark-ruby'
+theme='Win11-Dark'
 
 
 [org.mate.interface]
-gtk-theme='Vimix-dark-ruby'
+gtk-theme='Win11-Dark'
 icon-theme='Citrus-red-dark'
 #icon-theme='Numix-Circle'
 
